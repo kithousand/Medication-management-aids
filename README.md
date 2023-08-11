@@ -13,5 +13,3 @@
 ## Prerequite
 1. 작업 폴더 생성      
 
-```shell
-fff
