@@ -40,7 +40,25 @@
 ![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/78287c34-03d9-4239-a9bd-d337625b8b71)
 
 ## Work breakdown sheet​
-![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/68d79831-692a-4307-b7c0-fc0af47810c9)
+번호	해커톤 보조기기 개발 내용	추진 일정															
+		사전 준비 및 				본선 진출 심사 및 선정				본행사				아이디어 인계 및 향후 개발 지원			
+		신청 접수 기간				(7.29~8.06)				(8.06~8.19)				(8.21~)			
+		(~7.29)															
+1	계획 수립 및 자료조사																
+																	
+2	아이디어 구체화 및 보조 기능 정의																
+																	
+3	설계 적합성⋅효과성 검토																
+																	
+4	적용 가능한 세부 기술 분석 및 구현																
+																	
+5	부품수급 및 부품 제작																
+																	
+6	아이디어 제품화 및 보급 확대 추진																
+																	
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/19bf7499-148a-410d-8cde-277c26d6425a)
+
+
 
 ## 역할 분담
 팀장 하종찬(기획/프로젝트 매니저)
