@@ -1,4 +1,4 @@
-#pill_eat - ki_thousand
+# pill_eat - ki_thousand
 
 실행파일이름 : main.py
 
@@ -7,7 +7,7 @@ $ python3 main.py
 '''
 
 
-##pill_eat 기능설명
+## pill_eat 기능설명
 
 ###class별 기능설명 
 Message.py
