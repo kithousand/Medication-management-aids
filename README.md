@@ -3,22 +3,16 @@
 
 
 # 문제점정의
-최근 통계로 알아보는 노인층의 복약관리 동향
+
+## 최근 통계로 알아보는 노인층의 복약관리 동향
 ![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/c5c8fc7a-ca64-4e51-b38f-c38a1c956526)
 
-## 1.복약 불순응
-•55%가 임의 조절하여 약을 복용하지 않음
+## 사용자 분석 – 우리 주변의 노인들
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/ac5c73f5-c047-4b15-b08e-f85b58845017)
 
-•복약치료 효과를 제대로 볼 수 없음
 
-•노인은 노화로 인해 대사력이 감소하여 부작용 발생 가능성 높음
-## 2.다제약물 복용
-•전체 인구 중 2%, 노인 인구중  10%가 다제약물을 복용 중
-
-•한국은 다제병용  처방률  68.1%로 OECD 1위
-
-•전 세계 연간 200만건의 약물 유해반응이 발생, 10만명이 사망
-
+## 사용자 분석 – 전문가 인터뷰
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/3266eb12-30df-4433-bb73-3283747cb8e0)
 
 # 유즈케이스 시나리오
 
@@ -59,7 +53,9 @@
 
 
 ## 그 외 기타 사항 - SW dependency, 동작 환경, 제한 사항 등을 기술
-SW dependency - 
+
+## 핵심 기술
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/5c34e7ed-b2ca-422d-81b9-803ad27e1365)
 
 동작환경 - 라즈베리파이4 보드
 
