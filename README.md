@@ -52,3 +52,7 @@
 ## 핵심 기술
 ![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/46f456d8-8e78-4ed9-995e-cde3d947d234)
 
+## 공모전 본선 시연 현장 사진
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/c25a5176-b20b-48b7-a3e2-24c1b551b708)
+
+
