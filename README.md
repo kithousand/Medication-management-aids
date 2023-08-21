@@ -52,7 +52,14 @@
 ## 핵심 기술
 ![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/46f456d8-8e78-4ed9-995e-cde3d947d234)
 
-## 공모전 본선 시연 현장 사진
+## 시연 영상, 제작영상 URL
+• 제작영상 : https://www.youtube.com/watch?v=2JGMzi57F4s&t=31s
+• 시연영상 : https://www.youtube.com/shorts/7cosngZtbhQ
+
+## 보조기기 열린플랫폼 URL
+• http://www.nrc.go.kr/at_rd/web/lay2/program/S1T88C89/openPlatform/deviceInfo/view.do?open_platform_seq=467&start_dt=&end_dt=&keyword=&category1=&category2=&category3=&rows=6&cpage=2&order_type=OPEN_PLATFORM_SEQ
+
+## 공모전 시연 현장 사진
 ![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/c25a5176-b20b-48b7-a3e2-24c1b551b708)
 
 
