@@ -34,7 +34,9 @@
 ## Work breakdown sheet​
 ![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/69a9e2e1-21ca-48ba-9dc9-4a00f7c206ff)
 									
-																	
+## 동작구조도
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/fb887252-8605-422d-a8bf-374b14595d5b)
+		 
 ## 역할 분담
 팀장 하종찬(기획/프로젝트 매니저)
 
