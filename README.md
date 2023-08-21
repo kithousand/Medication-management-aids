@@ -1,9 +1,10 @@
 # 팀_나지금필받았어
-약 먹는 어르신들을 위한 AI 복약 관리사
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/cf70d888-d2e7-4350-aa12-1fdc4fdfd905)
 
 
 # 문제점정의
 최근 통계로 알아보는 노인층의 복약관리 동향
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/c5c8fc7a-ca64-4e51-b38f-c38a1c956526)
 
 ## 1.복약 불순응
 •55%가 임의 조절하여 약을 복용하지 않음
