@@ -55,8 +55,5 @@
 ## 그 외 기타 사항 - SW dependency, 동작 환경, 제한 사항 등을 기술
 
 ## 핵심 기술
-![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/5c34e7ed-b2ca-422d-81b9-803ad27e1365)
+![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/46f456d8-8e78-4ed9-995e-cde3d947d234)
 
-동작환경 - 라즈베리파이4 보드
-
-제한사항 - 학습된 알약 이미지에 한해서 검출 가능
