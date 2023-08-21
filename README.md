@@ -54,6 +54,7 @@
 
 ## 시연 영상, 제작영상 URL
 • 제작영상 : https://www.youtube.com/watch?v=2JGMzi57F4s&t=31s
+
 • 시연영상 : https://www.youtube.com/shorts/7cosngZtbhQ
 
 ## 보조기기 열린플랫폼 URL
