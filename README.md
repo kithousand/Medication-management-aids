@@ -1,4 +1,4 @@
-# 팀_나지금필받았어
+# 팀_알약보조관리
 ![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/cf70d888-d2e7-4350-aa12-1fdc4fdfd905)
 
 
