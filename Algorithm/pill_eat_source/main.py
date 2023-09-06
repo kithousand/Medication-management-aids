@@ -25,17 +25,9 @@ SENSOR = led.sensor()
 
 
 
-
-
-
-
-
-
-############################### 메인문 ###############################
 if __name__ == '__main__':
-    
-#   전원들어가면
-#   # 1.웰컴보이스
+    #전원들어가면
+    #웰컴보이스
     MESSAGE.welcome_Pilleat() 
     MESSAGE.fill_Pill()
     while(True):
@@ -44,14 +36,13 @@ if __name__ == '__main__':
        sleep(3)
       
        #일정시간되면 
-       #if MESSAGE.display_Time_morning == True:
+       if MESSAGE.display_Time_morning == True:
        
        MESSAGE.eatTime_Pill()
        MESSAGE.fill_Pill()
     
-      
-       #트레이 들어오면
-       while(True):   
+       while(True):
+            #트레이 들어오면   
             if SENSOR.sensor_state() == True:
                 LED.led_on()
                 MESSAGE.loading_Wait() 
@@ -61,8 +52,7 @@ if __name__ == '__main__':
             else:
                 MESSAGE.fill_Pill()
            
-           
-	
+        
     LCD.backlight(0)
     LED.led_off()
 GPIO.cleanup()
