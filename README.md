@@ -36,6 +36,10 @@
 									
 ## 동작구조도
 ![image](https://github.com/JongChanHa/Medication-management-aids/assets/136680397/fb887252-8605-422d-a8bf-374b14595d5b)
+
+## Flow Chart
+![image](https://github.com/kithousand/Medication-management-aids/assets/96045246/2892668f-25e7-4da1-88a1-05f6a372bdf5)
+
 		 
 ## 역할 분담
 팀장 하종찬(기획/프로젝트 매니저)
